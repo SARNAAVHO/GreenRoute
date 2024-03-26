@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Green Route</string>
+    <string name="title_activity_maps">Green Route</string>
+    <string name="google_maps_key">AIzaSyBtiUN5m9X-10k9YU23U9TF8TSrd6rHMRI</string>
+</resources>
+
+
